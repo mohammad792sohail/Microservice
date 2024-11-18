@@ -1,0 +1,5 @@
+package com.example.microservices.limits_service.configuration;
+
+public class Configuration {
+
+}
