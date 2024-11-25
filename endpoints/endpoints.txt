@@ -1,0 +1,5 @@
+http://localhost:8765/CURRENCY-EXCHANGE-SERVICE/from/dinar/to/inr
+http://localhost:8000/currency-exchange/from/dinar/to/inr
+http://localhost:8111/currency-conversion/from/dinar/to/inr/quantity/10
+http://localhost:8111/currency-conversion-feign/from/dinar/to/inr/quantity/10
+http://localhost:8761 (eureka server)
